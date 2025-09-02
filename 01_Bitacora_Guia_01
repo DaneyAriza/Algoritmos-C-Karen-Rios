@@ -1,0 +1,27 @@
+Reconocimiento de las herramientas de la computacion
+
+Materia: Algoritmos en C++
+Docente: Karen De Los Rios
+Por: Daney Stiven Ariza Vargas
+Fecha: 02/09/2025
+
+Inicialmente se propone el uso de la guia "Manual de prácticas del laboratorio de Fundamentos de programación" de la facultad de ingienería de la universidad donde abordamos los repositorios los cuales son directorios de trabajos usados para organizar un proyect, aquí se encuentran todos los archivos que integran un proyecto, y en el caso de Git, todos los archivos necesarios para llevar a cabo el control de versiones, aqui usamos principalmente Github
+
+Github: Es una plataforma en línea que funciona como "red social para programadores" y como servicio de almacenamiento de codigo. Se basa Git que es un sistema de control de versione (creado por Linus Torvalds, el mismo de Linux)
+¿Que te permite hacer?
+1-Guardar tu proyecto en repositorios de manera segura
+2-Llevar un historial de cambios que permite ver quién cambió qué, cuando y por qué.
+3-Colaboracion de varias personas que pueden trabajar al mismo tiwmpo en el mismo proyecto sin pisarse
+4-Revision y mejora de codigos mediante issues, pull requests y cide reviews
+5-Automatizacion de tareas con Github Actions
+6-Mostrar trabajos como portafolio
+7-Acceder a miles de proyectos abiertos
+
+Buscadores 
+Para la segunda parte se realiza un laboratorio de buscadores guiado por el documento antes mencionado MADO-17
+1-Se recomienda usar "or" para agregar otro elemento a la busqueda y "-" para eliminar una palabra de la busqueda
+2-Usamos comillas dobles en la busqueda para buscar exactamente las palabras que se indican dentro de las comillas
+3- "+" sirve para que la busqueda se agregue la palabra y encuentre paginas que la incluyan
+4- "define:" para encontrar las definiciones de ciertas palabras
+5- "site" para buscar exactamente en un sitio web
+6- "intitle" Se enarga de encontrar paginas.
