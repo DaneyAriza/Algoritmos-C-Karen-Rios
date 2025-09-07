@@ -1,0 +1,122 @@
+Fecha: 5 de setptiembre de 20205
+Materia: Algoritmos en c/c++
+Estudiante: Daney Stiven Ariza Vargas
+
+Tema:
+ Guía práctica de estudio 01: Buscadores
+
+Desarrollo:
+El día de hoy se hace continuación de la guía 01 del manual de laboratorio "MADO 17 versión 4.3" en la cual se plantea inicialmente que los estudiantes conozca y utilice herramientas de software que ofrecen las Tecnologías de la información y Comunicaciones.
+Previamente se habia manejado un acercamiento en la primer Bitácora, en esta hablaremos a profundidad de esta guia, su dearrolo, objetivos y a buscar que actividades se propone para el estudiante
+
+El objetivo de la guía busca que los estudiantes elaboren trabajos de forma organizada y profesional en su vida escolar, tales como el manejo de repositorios de almacenamiento y buscadores con funciones avanzadas.
+
+Sobre las actividades se plantea la creacion de un almacenamiento en linea y la realizacion de búsquedas avanzadas de informacion especializadas
+
+Desarrollo:
+
+(1) Control de versiones
+Se ve como un sistema en el cual se lleva a cabo el registro de los cambios sobre uno o mas archivos a lo largo del tiempo, que nos permite revisar versiones anteriores de archivos, revertir y comparar los cambios realizados, protege de errores de guardado y de manipulacion de datos, tambien facilita el trabajo cooperativo en archivos, es una herramienta sumamente profesional y recomendada para el software, pero su uso es recomendado en multiples areas
+
+(1.1)Tipos de versiones
+- El sistema de control de versiones Local
+   En estos sistemas, el registro de los cambios de los archivos se almacena en una base de datos locas
+- Sistema de Control de versiones centralizado
+   Estos sistemas se piensan para poder trabajar con colaboradores, por loq ue servidor central lleva el control de las versiones y cada usuario descarga los archivos desde ese servidor y sube sus cambios al mismo
+- Sistena de control de versiones distribuido
+   En estps sistemas, cada usuario posee una copia completa del proyecto y su historial, lo que permite restablecer el servidor en caso de fallo y compartir cambios directamente entre equipos
+- Git
+   Sistema de control de versiones libre y multiplataforma, creado en 2005 por Linus Torvalds para el desarrollo del Kernel de Linux. Actualmente es el más usado en el mundo
+(2) Repositorio
+Directorio donde se organiza un proyecto, incluye sus archivos y, en el caso de Git, los necesarios para gestionar versiones
+- Repositorio Local
+ Está en el propio equipo del usuario, con acceso exclusivo del dueño
+-Repositorio Remoto
+ Está en la nube (servidor externo), accesible por Internet. Permite disponibilidad y colaboración. Ejemplos: GitHub, Bitbucket, GitLab
+-GitHub
+ Plataforma de almacenamiento y colaboración para proyectos con Git. Facilita el manejo de repositorios, agrega herramientas de control, colaboración y notificaciones. Es la plataforma más grande con más de 31 millones de usuarios
+
+(3) Operaciones
+- Agregar
+ Operación que añade archivos nuevos o modificados al repositorio para ser considerados en la próxima versión del proyecto
+- Commit
+ Registra los archivos agregados, creando un nuevo estado (versión) del repositorio. Puede incluir varios archivos y debe llevar un mensaje descriptivo de los cambios
+- Ramas (Branches)
+ Permiten trabajar en una copia paralela del proyecto (generalmente desde master) para hacer pruebas o cambios sin afectar lo que ya funciona. Luego, los cambios se pueden unir (merge) a la rama principal
+-Almacenamiento en la nube
+ Servicio que guarda, administra y respalda datos en servidores remotos accesibles por Internet. Ejemplos: 
+	-Google Drive
+	-OneDrive
+	-iCloud
+	-Dropbox
+
+  - Google Drive y OneDrive permiten crear y editar documentos, hojas de cálculo y presentaciones en línea.
+
+  - Facilitan el trabajo colaborativo (varios usuarios editan un mismo documento)
+
+  - Los archivos pueden verse, editarse y compartirse desde distintos sistemas operativos y dispositivos (PC, móviles, tabletas)
+
+(4) Google Forms
+Herramienta de Google Drive para crear formularios con preguntas que pueden responder varias personas. Genera resúmenes automáticos con gráficos de los resultados
+
+(5)OneNote
+Aplicación de Microsoft disponible en OneDrive para tomar notas digitales como en una libreta, pero con respaldo en la nube
+
+(6)Dropbox
+Servicio de almacenamiento en la nube para guardar cualquier tipo de archivo digital
+	-Requiere registro con correo electrónico.
+	-Se puede usar en la web o mediante aplicación (Windows, Mac, Linux, móviles).
+	-Incluye integración con Microsoft Office Online para editar documentos.
+	-Permite compartir archivos y carpetas mediante enlaces.
+
+(7)Buscadores de internet
+Aplicaciones que rastrean y organizan información en la web mediante algoritmos, para mostrar resultados en el navegador (ejemplo: Google, Bing, Yahoo)
+
+(8)Comandos de búsqueda
+  - Siempre que queramos buscar algo y agregar otro elemento usamos "or" pero si queremos eliminar un elemento dentro de la búsqueda usamos "-"
+
+  - En la búsqueda de elementos las comillas dobles se usan para dar a entender que solo deben buscarse paginas que tengan exactamente las palabras que estén dentro de las mismas
+
+  - Cuando usamos el símbolo "+" antes de una palabra esta será agregada a la búsqueda que estemos haciendo
+
+  - Para buscar el significado de una palabra usamos "define:" y después de los dos puntos ponemos aquella palabra a la que queremos dar significado
+
+  - En las ocasiones en que estemos buscando un sitio en especifico usamos "site:" antes de poner la dirección de la pagina
+
+  - Usamos "~" para que agregue a la búsqueda elementos relacionados a la palabra adjunta al carácter
+
+  - el carácter ".." sirve para realizar búsquedas en intervalos de numéricos, ya sean años o datos numéricos 
+
+  - Para buscar un tipo en especifico de documento usamos "filetype:" y seguido el tipo de documentos que estamos buscando
+
+  - Si queremos paginas que contengan una palabra en especial en el titulo usamos "intitle:" y seguido la palabra que queremos
+
+  - Si no queremos resultados que contengan una palabra en espacial usamos "intext:" y seguido la palabra
+
+(9) Calculadora
+En el caso de Google ese nos permite realizar varias operaciones sencillas desde la barra de tareas abriendo la calculadora
+
+(10) Convertidor de unidades
+También cuenta con una función de conversión de unidades si se le menciona el tipo de unidades que se quiere convertir desde el barra de búsqueda
+
+(11) Graficas en 2D
+Este también nos permite graficar funciones en 2D si: 
+ -Agregamos la función 
+    -sen(x)
+ -Se define el intervalo de la función 
+   -"from -pi to pi"
+y asi este nos podrá graficar lo que le pidamos
+
+(12) Google académico 
+Es un buscador especializado de Google enfocado en el ámbito académico y científico.
+
+- Permite localizar artículos de revistas científicas y trabajos de investigación
+
+- Cubre múltiples disciplinas y diversos formatos de publicación
+
+- Está soportado en una base de datos gratuita y de libre acceso en Internet
+
+Si queremos encontrar un autor en especifico usamos "autor:" y seguido su nombre para encontrar material relacionado a este
+
+
+
