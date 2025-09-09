@@ -1,0 +1,58 @@
+09 de septiembre del 2025
+Daney Stiven Ariza Vargas
+
+Talle 2: Uso de la Terminal en GNU/Linux
+Se plantea resolver los codigos que estan escritos en el taller y responder
+
+- pwd
+   Este nos muestra la ruta a la direccion en que nos encontramos al momento en resultado obtenido en mi caso fue: /home/aulas-de-informatica
+- ls
+   ¿Qué elementos aparecen en la ubicacion? Este nos muestra los archvios o carpetas que tenemos en la ubicacion donde estemos, aparece:
+	-Descargas
+	-Escritorio
+	-Musica
+	-Publico
+	-Documentos
+	-Imagenes
+	-Plantillas 
+	-snap
+	-Vídeos
+	-tic_05SEP2025
+
+-mkdir practicas_linux
+   Este los usamos para crear un directorio llamado practicas_linux
+
+-cd practicas_linux
+   Usado para ingresar al directorio recien creado
+
+- touch archivo1.txt
+   Este se uso para crear un archivo de texto que no contenia informacion dentro del directorio de particas
+
+- ls -1
+   Se uso para enlistar los archivos dentro del directorio aunque en el momento solo estaba el archivo1.txt
+
+- cp archivo1.txt archivo2.txt
+   Su uso se baso en copiar el archivo inicial en uno nuevo, aunque el archivo inicial no contenia informacion se supone que copiaria la misma informacione en el nuevo archivo al cual se le dio otro nombre
+
+- mv archivo2.txt documentos.txt
+   Aqui renombramos el archivo2.txt que era la copia que creamos del archivo inicial
+
+-rm documentos.txt
+   En este punto eliminamos el documento que ya habiamos renombrado dentro del directorio de practicas
+
+- cd .. 
+   con este comando regresamos al directorio anterios que en este caso era home
+
+-rm -r practicas_linux
+   Aqui eliminamos el directorio y por ende su contenido.
+
+
+Preguntas de reflexion 
+1-¿Cual fue el propósito de cada comando ejecutado?
+Los propositos se explican en la parte superior de este documento
+2-¿Qué ventajas tiene usar la terminal en comparación con la interfz grafica?
+Si la persona tiene la agilidad para saber usar la terminal esta es mas rapida y cuando se manejan grandes cantidades de datos nos permite buscar rapidamente algun documento en especial
+3-¿Qué comandos prodian facilitar la automatizacion de tareas repetitivas?
+la tecla tab nos permite completar comandos que estemos usando y asi agilizar el uso de estos, pero hay ciertos comandos como el cd que podemos usar para abrir directorios que sabemos que ya existen dentro de otros directorios
+
+
