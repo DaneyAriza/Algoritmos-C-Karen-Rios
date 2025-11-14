@@ -1,0 +1,11 @@
+Algoritmo Deteccion_De_Objeto
+    Definir d Como Real
+
+    Escribir "Ingrese la distancia en metros:"
+    Leer d
+
+    Si d < 0.5 Entonces
+        Escribir "Objeto detectado"
+    FinSi
+
+FinAlgoritmo
