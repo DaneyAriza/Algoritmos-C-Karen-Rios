@@ -6,7 +6,10 @@ Welcome to GDB Online.
   Code, Compile, Run and Debug online from anywhere in world.
 
 *******************************************************************************/
-
+//Daney Stiven Ariza Vargas
+//IF-ELSE FISICO
+//Parte B
+//20 de noviembre del 2025
 
 #include <stdio.h>
 
